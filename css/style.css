@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+html {
+    height: 100%;
+    display: table;
+    width: 100%;
+}
